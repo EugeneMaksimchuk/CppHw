@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\gekam\source\repos\14.09.2020\14.09.2020\Source.cpp(16,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gekam\source\repos\14.09.2020\14.09.2020\Source.cpp(18,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gekam\source\repos\14.09.2020\14.09.2020\Source.cpp(23,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gekam\source\repos\14.09.2020\14.09.2020\Source.cpp(34,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  14.09.2020.vcxproj -> C:\Users\gekam\source\repos\14.09.2020\Debug\14.09.2020.exe
